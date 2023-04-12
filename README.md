@@ -1,7 +1,11 @@
 
 # Rapport
 
-**Skriv din rapport här!**
+I denna uppgiften så var kravet att lägga in 3 egna "widgets" eller views på en ny app-template. Jag valde att lägga in en bild, 
+en textview som ser ut som en bildtext samt två knappar för yes/no som inte har någon funktion än. Detta gjorde jag med en 
+constraintlayout vilket innebär att alla elementen har constraints som bestämmer deras positioner.
+
+
 
 _Du kan ta bort all text som finns sedan tidigare_.
 
