@@ -50,6 +50,7 @@ För att sedan ha en typ av bildtext så la jag till en textview som alignas i m
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toBottomOf="@+id/imageView3" />
 
+![img.png](img.png)
 ## Följande grundsyn gäller dugga-svar:
 
 - Ett kortfattat svar är att föredra. Svar som är längre än en sida text (skärmdumpar och programkod exkluderat) är onödigt långt.
